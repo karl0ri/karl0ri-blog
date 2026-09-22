@@ -1,0 +1,12 @@
+{
+  "name": "karl0ri-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Add your build command here'"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
