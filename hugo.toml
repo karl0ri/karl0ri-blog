@@ -25,14 +25,14 @@ enableRobotsTXT = true
   [languages.fr]
     title = "karl0ri"
     LanguageName = "FR"
-    Language.Locale = "fr-FR"
+    LanguageCode = "fr-FR"
     contentDir = "content"
     [languages.fr.params]
       madeWith = "Fait avec [Bear Cub](https://github.com/clente/hugo-bearcub)"
   [languages.en]
     title = "karl0ri"
     LanguageName = "EN"
-    Language.Locale = "en-US"
+    LanguageCode = "en-US"
     contentDir = "content"
     [languages.en.params]
       madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
