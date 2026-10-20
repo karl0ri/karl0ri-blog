@@ -1,6 +1,6 @@
 +++
 date = '2026-10-20T14:05:31+02:00'
-title = 'Mon Experience Dans Deux Unites Psychiatriques Pour Adolescents en Suisse'
+title = 'Mon expérience dans deux unités psychiatriques pour adolescents en Suisse'
 hideReply = true
 +++
 **TRIGGER WARNING:**
