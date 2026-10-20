@@ -1,6 +1,7 @@
 ---
 title: "À propos"
 menu: "main"
+slug: "a-propos"
 weight: 3
 hideReply: true
 ---
