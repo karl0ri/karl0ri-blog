@@ -1,5 +1,5 @@
 +++
-date = '2026-09-04T09:55:31+02:00'
+date = '2026-10-20T14:05:31+02:00'
 title = 'My experience in two swiss teen psychiatric units'
 slug = 'my-experience-in-two-swiss-teen-psychiatric-units'
 hideReply = true
